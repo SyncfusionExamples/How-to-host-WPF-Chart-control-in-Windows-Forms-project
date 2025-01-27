@@ -27,7 +27,7 @@ To encapsulate and reuse the WPF chart control, need to create a Windows Control
 To enable the use of WPF Chart controls within the project, it is necessary to add the required WPF assemblies. Follow these steps:
 
 1. Right-click the Windows Control Library project and select Manage NuGet Packages.
-2. Install the [Syncfusion.SfChart.WPF](https://www.syncfusion.com/wpf-controls/charts){target="_blank"} packages.
+2. Install the [Syncfusion.SfChart.WPF](https://www.syncfusion.com/wpf-controls/charts) packages.
 
 ### Step 4: Add a WPF User Control to the project
 
