@@ -83,7 +83,7 @@ using System.ComponentModel.Design.Serialization;
 using System.ComponentModel;
 using WindowsFormsControlLibrary;
 
-namespace SimpleSample
+namespace ChartIntegration
 {
     [Designer("System.Windows.Forms.Design.ControlDesigner, System.Design")]
     [DesignerSerializer("System.ComponentModel.Design.Serialization.TypeCodeDomSerializer , System.Design", "System.ComponentModel.Design.Serialization.CodeDomSerializer, System.Design")]
@@ -115,7 +115,8 @@ It is needed to attach the created Windows Control Library project into Windows 
 As both the applications are merged, it is needed to rebuild the whole application. It will add SfChartControl WPF control in Windows Forms Application Designer Page Toolbox. It can be dragged and dropped into the Form Designer.
  
   
- ![This image demonstrates designer page toolbox](https://support.syncfusion.com/kb/agent/attachment/article/18893/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjM1MzAyIiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.vX_arH2klFUH-zZptrfQjtgZOpwmDqkBlsI08h0VYSI)
+ ![ChartHosting demostrates output](https://support.syncfusion.com/kb/agent/attachment/article/18893/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjM2NjY2Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.YVFfTEwA6HYF-QvFvs2HBYaS3BcpMuA13oJCqw_-Tb4)
+
 
 ### Output:
 
