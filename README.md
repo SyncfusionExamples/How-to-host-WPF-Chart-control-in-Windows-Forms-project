@@ -1,5 +1,5 @@
 # How to host WPF Chart control in Windows Forms project
-This article offers a step-by-step guide to integrating a WPF Chart control into a Windows Forms project. Hosting a WPF Chart control within a Windows Forms application enables access to the advanced and modern features of WPF while maintaining the existing Windows Forms infrastructure. Follow these steps:
+This article offers a step-by-step guide to integrating a [WPF Chart](https://www.syncfusion.com/wpf-controls/charts) control into a Windows Forms project. Hosting a [WPF Chart](https://www.syncfusion.com/wpf-controls/charts) control within a [Windows Forms](https://help.syncfusion.com/windowsforms/overview) application enables access to the advanced and modern features of WPF while maintaining the existing Windows Forms infrastructure. Follow these steps:
 
 ### Step 1: Create a Windows Forms Project
 
@@ -129,4 +129,4 @@ As both the applications are merged, it is needed to rebuild the whole applicati
 
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
-For more details, refer to the KB on How to host WPF Chart control in Windows Forms project ?
+For more details, refer to the KB on [How to host WPF Chart control in Windows Forms project](https://support.syncfusion.com/kb/article/18893/how-to-host-wpf-chart-control-in-windows-forms-project-).
